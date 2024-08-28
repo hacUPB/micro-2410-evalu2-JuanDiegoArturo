@@ -1,0 +1,4 @@
+La matriz de leds 1088AS, averiguando con la referencia, es de cátodo común
+
+Los ánodos de los leds son comunes en cada columna 
+Los cátodos de los leds son comunes en cada fila
